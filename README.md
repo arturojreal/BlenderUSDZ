@@ -5,7 +5,7 @@ USDZ file Import-Export add-on for [Blender](https://www.blender.org) that provi
 
 ## Installation
 
-1. Download `io_export_usdz.zip` file from the root of this repository
+1. Download `io_scene_usdz.zip` file from the root of this repository
 2. Open Blender 2.8  and Go to `Edit -> Preferences...`
 3. In Preferences select `Add-ons` on the left-hand menu and then select the `Install` button on the top right corner of the window
 4. Navigate to and select the `io_export_usdz.zip` file from Step 1
